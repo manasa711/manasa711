@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 I'm Manasa (she/her), a Bioinformatics master's student at Georgia Tech with an academic background in Biotechnology 🧬. I am passionate about the Biotechnology/Pharmacology industry and currently focused on growing both my technical and research skills in preparation for a professional career in computational biology / data science roles.
-#### Check out my portfolio here: 
+#### Check out my [portfolio](https://manasa711.github.io/)! 
 <!--
 **manasa711/manasa711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
