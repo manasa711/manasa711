@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Manasa (she/her), a Bioinformatics master's student at Georgia Tech with an academic background in Biotechnology 🧬. I am passionate about the Biotechnology/Pharmacology industry and currently focused on growing both my technical and research skills in preparation for a professional career in computational biology / data science roles.
-#### Check out my [portfolio](https://manasa711.github.io/)! 
+I'm Manasa (she/her), a Bioinformatics professional with a passion for harnessing data science to solve real-world challenges! I am currently working in the healthcare and research sector, where I perform biological data analysis and build data pipelines to enable protein biomarker discovery and develop a better understanding of heart diseases. My experience as a bioinformatician has taught me the value of extracting meaningful insights from intricate datasets, and I am eager to harness this skill set to drive impact across diverse sectors.
+
+MS Bioinf | Georgia Tech 👩‍🎓
+
 <!--
+
+#### Check out my [portfolio](https://manasa711.github.io/)! 
 **manasa711/manasa711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
