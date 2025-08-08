@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm Manasa (she/her), a Bioinformatics professional with a passion for harnessing data science to solve real-world challenges! I am currently working in the healthcare and research sector, where I perform biological data analysis and build data pipelines to enable protein biomarker discovery and develop a better understanding of heart diseases. My experience as a bioinformatician has taught me the value of extracting meaningful insights from intricate datasets, and I am eager to harness this skill set to drive impact across diverse sectors.
-
 Bioinformatician | Cedars-Sinai Medical Center 👩‍💻 | 2021 - Present <br />
 MS Bioinf | Georgia Tech 👩‍🎓 | 2019 - 2021
 
